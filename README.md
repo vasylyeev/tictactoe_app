@@ -2,4 +2,4 @@
 
 A worldwide popular game, made for Android and iOS devices using Flutter Framework.
 
-!(Game UI)[readme_src/Game_UI.png]
+![Game UI](readme_src/Game_UI.png)
